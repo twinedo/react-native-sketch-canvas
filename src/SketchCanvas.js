@@ -171,9 +171,9 @@ class SketchCanvas extends React.Component {
 
   save(
     imageType,
-    transparent,
     folder,
     filename,
+    transparent,
     includeImage,
     includeText,
     cropToImageSize
